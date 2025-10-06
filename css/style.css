@@ -59,7 +59,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  cursor: url("/images/cursor.cur"), auto;
+  cursor: url("/images/paw.png") 16 16, auto;
 }
 
 [tabindex="-1"]:focus {
